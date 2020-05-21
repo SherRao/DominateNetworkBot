@@ -1,4 +1,4 @@
-# DominateNetwork-Discord-Bot
+# DominateNetwork Discord Bot
 A Discord bot providing functionality for the official DominateNetwork Discord server. Uses the Twitter REST API to provide tweet updates.
 
 # Dependencies
